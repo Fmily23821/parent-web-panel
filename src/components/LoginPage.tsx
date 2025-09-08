@@ -142,30 +142,6 @@ export default function LoginPage() {
             </div>
           </div>
         </div>
-
-        {/* Features Preview */}
-        <div className="mt-8 grid grid-cols-2 gap-4">
-          <div className="text-center p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-white/20">
-            <div className="text-2xl mb-2">🛡️</div>
-            <div className="text-sm font-semibold text-gray-800">Advanced Security</div>
-            <div className="text-xs text-gray-600">Root-level protection</div>
-          </div>
-          <div className="text-center p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-white/20">
-            <div className="text-2xl mb-2">📱</div>
-            <div className="text-sm font-semibold text-gray-800">Real-time Monitoring</div>
-            <div className="text-xs text-gray-600">Live tracking & alerts</div>
-          </div>
-          <div className="text-center p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-white/20">
-            <div className="text-2xl mb-2">🔒</div>
-            <div className="text-sm font-semibold text-gray-800">Stealth Mode</div>
-            <div className="text-xs text-gray-600">Completely hidden</div>
-          </div>
-          <div className="text-center p-4 bg-white/60 backdrop-blur-sm rounded-xl border border-white/20">
-            <div className="text-2xl mb-2">🎧</div>
-            <div className="text-sm font-semibold text-gray-800">Live Listening</div>
-            <div className="text-xs text-gray-600">Real-time audio</div>
-          </div>
-        </div>
       </div>
     </div>
   )
